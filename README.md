@@ -1,7 +1,7 @@
 # App EasyCode
 
 ## App done with Vue, Vuetify...
-## Demo: code-1fdf7.firebaseapp.com
+## Demo: https://code-1fdf7.firebaseapp.com/
 
 ## Project setup
 ```
